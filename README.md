@@ -1,6 +1,6 @@
 ### Hola soy Ana Juárez 👋
 
-Soy Desarrollador Front End 🖥 siempre estoy activamente estudiando para lograr ser una mejor profesional ✨
+Soy Desarrolladora Front End 🖥 siempre estoy activamente estudiando para lograr ser una mejor profesional ✨
 
 🔭 Actualmente trabajo en <b>proyectos personales</b> <br/>
 🌱 Estoy aprendiendo Angular y TypeScript
