@@ -16,6 +16,7 @@ Las tecnologías que he usado son:
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=Javascript&logoColor=%23F7DF1E)
 ![Angular](https://img.shields.io/badge/Angular-D6002F?style=for-the-badge&logo=Angular&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js-%20-%23000000.svg?style=for-the-badge&logo=Next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-149eca?style=for-the-badge&logo=react&logoColor=fff)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-d2c?style=for-the-badge&logo=Framer_Motion&logoColor=fff)
